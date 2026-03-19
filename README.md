@@ -337,3 +337,8 @@ This project is released as open source. Feel free to use, modify, and distribut
 ---
 
 *Built with the Web Audio API · No dependencies · Single HTML file*
+
+<div align="center">
+Made with ❤️ by Mohammad Shakeel
+Powered by MediaPipe Hands · Web Audio API · Vanilla JavaScript
+</div>
