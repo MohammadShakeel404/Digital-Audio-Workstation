@@ -340,5 +340,5 @@ This project is released as open source. Feel free to use, modify, and distribut
 
 <div align="center">
 Made with ❤️ by Mohammad Shakeel
-Powered by MediaPipe Hands · Web Audio API · Vanilla JavaScript
+Powered by Web Audio API
 </div>
